@@ -8,4 +8,6 @@
 
   ---
 * **blackjack CLI game**
-  <br>made a simple game of 21 that takes user input to decide to pull a card and go against a dealer. im gonna refine this but it was with no guide so its kinda dope in my opinion.
+  <br>made a simple game of 21 that takes user input to decide to pull a card and go against a dealer. im gonna refine this but it was with no guide so its kinda dope in my opinion.<br>
+  in doing this i learned about randomization and it really tested my conditional functions.
+  [BlackJack Source Code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/blackjack "BlackJack")<br>
