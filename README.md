@@ -11,3 +11,7 @@
   <br>made a simple game of 21 that takes user input to decide to pull a card and go against a dealer. im gonna refine this but it was with no guide so its kinda dope in my opinion.<br>
   in doing this i learned about randomization and it really tested my conditional functions.
   [BlackJack Source Code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/blackjack "BlackJack")<br>
+
+  ---
+* **Simple HTTP request**
+    <br>After hours of struggling with external libraries in an attempt to make a web parser i was unsuccessful (F*ck cmake) However i figured out on my own how to make a bare bones http request using curl in c++. ill definitely be using this in the future  [Http Request source code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/curls.cpp "HTTP-Request")
