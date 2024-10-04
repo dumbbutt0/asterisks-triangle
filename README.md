@@ -15,3 +15,7 @@
   ---
 * **Simple HTTP request**
     <br>After hours of struggling with external libraries in an attempt to make a web parser i was unsuccessful (F*ck cmake) However i figured out on my own how to make a bare bones http request using curl in c++. ill definitely be using this in the future  [Http Request source code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/curls.cpp "HTTP-Request")
+
+---
+* **Link grabber**
+  <br> after giving up on external libraries i had a much simpler time just usimg the builtin regex and libcurl libraries to make request to whatever domain and then regex to extract links. Im still gonna learn how to use gumbo but something is better than nothing. [DumbLinks source code](https://github.com/dumbbutt0/DumbLinks "DumbLinks")
