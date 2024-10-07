@@ -18,4 +18,7 @@
 
 ---
 * **Link grabber**
-  <br> after giving up on external libraries i had a much simpler time just usimg the builtin regex and libcurl libraries to make request to whatever domain and then regex to extract links. Im still gonna learn how to use gumbo but something is better than nothing. [DumbLinks source code](https://github.com/dumbbutt0/DumbLinks "DumbLinks")
+  <br>after giving up on external libraries i had a much simpler time just usimg the builtin regex and libcurl libraries to make request to whatever domain and then regex to extract links. Im still gonna learn how to use gumbo but something is better than nothing. [DumbLinks source code](https://github.com/dumbbutt0/DumbLinks "DumbLinks")
+---
+* **Number Guesser**
+  <br>I created a program that will guess the number that your thinking of by using the midpoint algorithm `(1 + 100)/2 = 50` to eventually reach the number your thinking of [Number Guesser source code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/number-guesser.cpp "Number Generator")
