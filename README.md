@@ -22,3 +22,6 @@
 ---
 * **Number Guesser**
   <br>I created a program that will guess the number that your thinking of by using the midpoint algorithm `(1 + 100)/2 = 50` to eventually reach the number your thinking of [Number Guesser source code](https://github.com/dumbbutt0/cpp-trashbox/blob/main/number-guesser.cpp "Number Generator")
+---
+* **Directory enumerator**
+  <br>Started off with a good program for enumerating paths in a website and also taught me how to use color in c++ and  how to read input from a file in order to do a task for each new line. [DumbBuster](https://github.com/dumbbutt0/DumbBuster "DumbBuster")
